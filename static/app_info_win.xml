@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppGameVersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<launcherAppInfo>
+		<version>
+			<Major>3</Major>
+			<Minor>9</Minor>
+			<Build>0</Build>
+			<Revision>0</Revision>
+		</version>
+		<title>Pixel Gun World Launcher</title>
+		<urlTorrent>http://pgun.rilisoft.info/static/torrents/pixelgun_win_launcher_3.9.0.torrent</urlTorrent>
+		<url>http://pgun.rilisoft.info/static/launcher/pixelgun_win_launcher_3.9.0.zip</url>
+		<urlTorrentCDN>http://cdn.pixelgun3d.com/static/torrents/pixelgun_win_launcher_3.9.0.torrent</urlTorrentCDN>
+		<urlCDN>http://cdn.pixelgun3d.com/static/launcher/pixelgun_win_launcher_3.9.0.zip</urlCDN>
+		<fileName>pixelgun_win_launcher.exe</fileName>
+		<rootDirectory />
+	</launcherAppInfo>
+	<gameAppInfo>
+		<version>
+			<Major>3</Major>
+			<Minor>9</Minor>
+			<Build>0</Build>
+			<Revision>0</Revision>
+		</version>
+		<title>Pixel Gun World Revival</title>
+		<urlTorrent>http://pgun.rilisoft.info/static/torrents/pixelgun_win_3.9.0.torrent</urlTorrent>
+		<url>http://pgun.rilisoft.info/static/client/pixelgun_win_3.9.0.zip</url>
+		<urlTorrentCDN>http://cdn.pixelgun3d.com/static/torrents/pixelgun_win_3.9.0.torrent</urlTorrentCDN>
+		<urlCDN>http://cdn.pixelgun3d.com/static/client/pixelgun_win_3.9.0.zip</urlCDN>
+		<fileName>pixelgun_win.exe</fileName>
+		<rootDirectory>Games/PixelGun3D</rootDirectory>
+	</gameAppInfo>
+	<isUseTorrent>false</isUseTorrent>
+</AppGameVersionInfo>
